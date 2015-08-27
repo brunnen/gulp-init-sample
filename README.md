@@ -1,2 +1,2 @@
-# gulp-init-sample
+# gulpfile-sample
 A sample output for gulpfile.js file. http://gulpjs.com/
